@@ -7,7 +7,8 @@ def cml1(weight, af):
            cml = bmr * af
            return cml    
     
-                
+def handle_game_choice(game):
+    return f"User prefers: {game}"                
         
 
 
